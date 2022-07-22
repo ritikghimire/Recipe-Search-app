@@ -1,5 +1,6 @@
-# forkify-app
-This is a forkify application
+# Recipe-Search-app(forkify)
+search through thousands of recipe or add/save your favourite food recipe
 
-you can visit the app here:
+
+link to the application:
 https://forkify-v2.netlify.app/
