@@ -1,4 +1,4 @@
-# Recipe-Search-app(forkify)
+# Recipe-Search-app
 search through thousands of recipe or add/save your favourite food recipe
 
 
